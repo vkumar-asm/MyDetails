@@ -1,7 +1,9 @@
-<<<<<<< HEAD
 Mysore
-=======
 shimoga
 Kunigal
+<<<<<<< HEAD
 >>>>>>> 52aae8667a2afb41910b312ffa3ace746dd4097f
 added by vinay
+=======
+Added by Harish
+>>>>>>> 0115f7cb65778cf5ecffc7f3d48bb3c4906de37e
