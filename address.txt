@@ -1,6 +1,10 @@
 Mysore
 shimoga
 Kunigal
+<<<<<<< HEAD
 Banglore
 
 My name is Nagarajaiah H M
+=======
+Added by Harish
+>>>>>>> 0115f7cb65778cf5ecffc7f3d48bb3c4906de37e
