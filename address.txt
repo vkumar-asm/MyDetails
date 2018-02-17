@@ -2,8 +2,14 @@ Mysore
 shimoga
 Kunigal
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 52aae8667a2afb41910b312ffa3ace746dd4097f
 added by vinay
+=======
+Banglore
+
+My name is Nagarajaiah H M
+>>>>>>> 83f507d344d5dd16d5c17ac321f2d257a189c75d
 =======
 Added by Harish
 >>>>>>> 0115f7cb65778cf5ecffc7f3d48bb3c4906de37e
